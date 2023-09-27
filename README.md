@@ -1,6 +1,6 @@
 - 👋 Hey, I’m sev1n, code name 75.
 - 👀 I’m interested in `Cyber Security`and `hacking`
-- 🌱 I’m currently learning in `Pwn` 
+- 🌱 I’m currently learning `Pwn` 
 - 📫 You can email me at sev1n75@qq.com or leave message to sev1n75#3912 on discord
  
 <!---
