@@ -1,6 +1,6 @@
 - 👋 Hey, I’m **sev1n**, code name 75.
 - 👀 I’m interested in **hacking the kernel**.
-- 🌱 I’m currently learning technics of exploiting the Linux Kernel.
+- 🌱 I’m currently learning techniques of exploiting the Linux Kernel.
 - 📫 You can email me at sev1n75@qq.com or leave message to sev1n75#3912 on discord.
 - 🔗 My tech blog is [here](https://sev1n75.github.io), I will post my learning notes on the blog.
  
